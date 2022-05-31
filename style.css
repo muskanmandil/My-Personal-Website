@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+/* Header*/
+header>img{
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+nav{
+    float: right;
+    padding-top: 30px;
+    font-weight: 700;
+}
+
+nav>a{
+    padding-right: 20px;
+    text-decoration: none;
+    color: #E7DFDD;
+}
+
+nav>a:hover{
+    color: red;
+}
+
+
+
+/*Introduction*/
+section.intro{
+    padding-top: 150px;
+    padding-bottom: 420px;
+    background-coloR: #0E0B16;
+}
+
+img.profilepic{
+    float: left;
+    padding-left: 300px;
+    width: 360px;
+    height: 360px;
+}
+
+div.intro{
+    float: right;
+    padding-top: 50px;
+    padding-right: 300px;
+    font-size: xx-large;
+    font-weight: 300;
+}
+
+p.intro-tittle{
+    color: #E7DFDD;
+}
+
+p.intro-subtittle{
+    padding: 10px;
+    background-color: aqua;
+}
+
+
+
+
+
+/*My Skills*/
+section.my-skills{
+    padding-top: 5px;
+    padding-bottom: 40px;
+    background-color: #E7DFDD;
+}
+
+h1.my-skills{
+    padding-top: 30px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+img.skill{
+    padding-left: 50px;
+    padding-bottom: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+div.skill{
+    float: left;
+    padding-top: 80px;
+    padding-left: 30px;
+    padding-right: 45px;
+    line-height: 150%;
+}
+
+a.link{
+    text-decoration: none;
+    color: blue;
+}
+
+a.link:hover{
+    color: brown;
+}
+
+
+p.button{
+    padding-top: 70px;
+    text-align: center;
+    font-size: large;
+}
+p.button>a{
+    background-color: #A239CA;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+p.button>a:hover{
+    color: black;
+}
+
+
+
+
+
+/*About Me*/
+section.about-me{
+    padding-top: 5px;
+    padding-bottom: 500px;
+    background-color: #0E0B16;
+}
+
+h1.about-me{
+    padding-top: 30px;
+    text-align: center;
+    font-size: xx-large;
+    color: #E7DFDD;
+}
+
+div.about-me{
+    padding-top: 50px;
+    float: left;
+    padding-left: 50px;
+    font-size: large;
+    line-height: 150%;
+    color: #E7DFDD;
+}
+
+img.pic{
+    float: right;
+    padding-top: 10px;
+    padding-right: 50px;
+    height: 540px;
+    width: 300px
+}
+
+
+
+
+/*Contact*/
+section.contact{
+    padding-top: 5px;
+    padding-bottom: 110px;
+    background-color: #E7DFDD;
+}
+
+h1.contact{
+    padding-top: 30px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+
+img.first{
+    float: left;
+    padding-left: 570px;
+    width: 30px;
+    height: 30px; 
+    padding-top: 30px;  
+    padding-bottom: 50px;
+}
+
+img.rest{
+    float: left;
+    padding-left: 30px;
+    width: 30px;
+    height: 30px;  
+    padding-top: 30px;  
+    padding-bottom: 50px;
+}
